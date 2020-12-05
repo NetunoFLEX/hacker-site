@@ -1,5 +1,7 @@
 # WARNING!
 
+simple hmtl template (no CSS, only js)
+
 this template cannot be used for commercial stuffs
 if u wanna buy the code to sell or made any shit (idc) send me a DM on discord
 Netuno#9684
