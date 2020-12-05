@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+
+#####IF U WANNA INDEX UR SITE, DELETE THIS FILE#####
