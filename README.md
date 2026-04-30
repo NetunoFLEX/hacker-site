@@ -207,13 +207,7 @@ Future versions could include:
 
 ## License
 
-No license is currently provided. Add a license before distributing or publishing this template.
-
-Recommended options:
-
-- MIT License for permissive open-source use
-- Apache 2.0 for permissive use with patent language
-- Proprietary license if this is for private/internal use only
+The Unlicense.
 
 ## Disclaimer
 
